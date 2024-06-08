@@ -22,8 +22,7 @@ apis:
       - type: Documentation
         url: https://developers.pinterest.com/docs/api/v5/
       - type: OpenAPI
-        url: >-
-          https://raw.githubusercontent.com/pinterest/api-description/main/v5/openapi.yaml
+        url: properties/pinterest-openapi-original.yml
     overlays:
       - type: APIs.io Search
         url: >-
@@ -40,6 +39,10 @@ common:
     url: https://help.pinterest.com/contact
   - type: Terms of Service
     url: https://developers.pinterest.com/terms/
+  - type: OpenAPI
+    url: https://github.com/pinterest/api-description
+  - type: GitHub Org
+    url: https://github.com/pinterest        
 maintainers:
   - FN: API Evangelist
     url: http://apievangelist.com
