@@ -7,9 +7,10 @@ description: >-
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/pinterest.yml
 created: 2023/11/23
-modified: 2023/11/23
-specificationVersion: '0.16'
-tags: []
+modified: '2024-07-03'
+specificationVersion: '0.18'
+tags:
+  - Images
 apis:
   - name: Pinterest API
     description: This is the description of your API.
@@ -41,7 +42,7 @@ common:
   - type: OpenAPI
     url: https://github.com/pinterest/api-description
   - type: GitHub Org
-    url: https://github.com/pinterest        
+    url: https://github.com/pinterest
 maintainers:
   - FN: API Evangelist
     url: http://apievangelist.com
@@ -52,3 +53,4 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: pinterest
+score: 40
