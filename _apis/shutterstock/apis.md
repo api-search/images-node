@@ -10,8 +10,8 @@ image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jp
 url: >-
   https://raw.githubusercontent.com/apis-json/artisanal/main/apis/shutterstock.yml
 created: 2023/10/6
-modified: 2023/10/6
-specificationVersion: '0.14'
+modified: '2024-07-03'
+specificationVersion: '0.18'
 tags: []
 apis:
   - name: Shutterstock API
@@ -61,4 +61,5 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: shutterstock
+
 ---
