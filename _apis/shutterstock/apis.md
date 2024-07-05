@@ -7,8 +7,7 @@ description: >-
   produce their best work with incredible content and innovative tools, all on
   one platform.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-url: >-
-  https://raw.githubusercontent.com/apis-json/artisanal/main/apis/shutterstock.yml
+url: https://raw.githubusercontent.com/api-search/images/main/_apis/shutterstock/apis.md
 created: 2023/10/6
 modified: '2024-07-03'
 specificationVersion: '0.18'
