@@ -1,4 +1,3 @@
----
 name: Pinterest
 description: >-
   Pinterest is an American image sharing and social media service designed to
@@ -6,7 +5,8 @@ description: >-
   motivation, and inspiration on the internet using images and, on a smaller
   scale, animated GIFs and videos, in the form of pinboards.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-url: https://raw.githubusercontent.com/api-search/images/main/_apis/pinterest/apis.md
+url: >-
+  https://raw.githubusercontent.com/api-search/images/main/_apis/pinterest/apis.md
 created: 2023/11/23
 modified: '2024-07-03'
 specificationVersion: '0.18'
@@ -53,5 +53,3 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: pinterest
-
----
