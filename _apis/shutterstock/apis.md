@@ -1,3 +1,4 @@
+---
 name: Shutterstock
 description: >-
   Shutterstock helps creative professionals from all backgrounds and businesses
@@ -60,3 +61,4 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: shutterstock
+---

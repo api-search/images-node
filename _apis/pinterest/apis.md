@@ -1,3 +1,4 @@
+---
 name: Pinterest
 description: >-
   Pinterest is an American image sharing and social media service designed to
@@ -53,3 +54,4 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: pinterest
+---
